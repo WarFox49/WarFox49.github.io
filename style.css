@@ -1,5 +1,6 @@
 body {
     background-image: url('https://i.ytimg.com/vi/BlePM_Id3d0/hqdefault.jpg');
+    background-size: cover; /* This will put your image back to muitiple if you don't like it stretched*/
     color: rgb(15, 15, 15);
     padding: 10px;
     font-family: arial;
